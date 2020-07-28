@@ -1,0 +1,2 @@
+# BS and MS Problem sets
+Here are some of problem sets that I worked on in some of my courses on electromagnetism, quantum mechanics, and mathematical methods. I especially enjoy solving problems not found in textbooks because it always encouraged collaboration between me and my peers. I have learned from my adviser, Dr Ian Vega, that one does not have to be the fastest one to answer a problem. Sometimes, what it takes to be successful is _persistence_.
