@@ -29,6 +29,15 @@ _Math and physics courses taken when I was an undergraduate student:_
 * Math 53/54/55: **Elementary Analysis course series** (_Limits, fundamental theorem of calculus, definite integrals, integration emthods, plane and solic analytic geoemtry, vectors, sequences and series, power series, partial differentiation, multiple integrals, infinite series, differential equation_)
 * Math 121.1: **Elementary Differential Equations** (_Ordinary differential equations of order one, linear differential equations, differential operators, Laplace Transform, nonlinear equations, series solutions about an ordinary point_)
 
+_Some of the textbooks that I enjoyed reading:_
+* Physics for Scientists and Engineers: Paul Tipler
+* Introduction to Electrodynamics: David Griffiths
+* Computational Physics: Mark Newman
+* Classical Mechanics: Herbert Goldstein
+* Modern Electrodynamics: Andrew Zangwill
+* Mathematical Methods in the Physical Sciences: Mary Boas
+
+
 
 
 
