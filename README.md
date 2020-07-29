@@ -1,5 +1,5 @@
 # BS and MS Problem sets
-Here are some of problem sets that I worked on in some of my courses on electromagnetism, quantum mechanics, and mathematical methods. I especially enjoy solving problems not found in textbooks because it always encouraged collaboration between me and my peers. I have learned from my adviser, Dr Ian Vega, that you do not have to be the fastest one to solve a problem. Sometimes, what it takes to be successful is _persistence_.
+Here are some of problem sets that I turned in for courses I took while working towards my BS and MS degrees in Physics. I especially enjoy solving problems not found in textbooks because it always encouraged collaboration between me and my peers. I have learned from my adviser, Dr Ian Vega, that you do not have to be the fastest one to solve a problem. Sometimes, what it takes to be successful is _persistence_.
 
 _Math and physics courses taken when I was an MS student:_
 * Physics 211: **Mathematical Methods of Physics I** (_Distribution theory, Green functions_)
