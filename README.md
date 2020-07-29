@@ -11,7 +11,7 @@ _Math and physics courses taken when I was an MS student:_
 
 _Math and physics courses taken when I was an undergraduate student:_
 
-* Physics 101/102/103/104: **Fundamental physics course series** (_Classical mechanics, electromagnetism, thermodynamics, modern physics)
+* Physics 101/102/103/104: **Fundamental physics course series** (_Classical mechanics, electromagnetism, thermodynamics, modern physics_)
 * Physics 111/112/113/114: **Mathematical Methods of Physics course series** (_Vector analysis, matrix algebra, complex analysis, differential equations, Fourier transform, Sturm-Liouville theory, Hilbert space, Green functions, random processes, topology, differential forms, group theory_)
 * Physics 121/122: **Theoretical Mechanics I and II**
 * Physics 131/132: **Electromagnetic Theory I and II**
